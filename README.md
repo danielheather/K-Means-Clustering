@@ -10,7 +10,10 @@ We used the k-means clustering algorithm in Python to segment customers. The pro
 ## How to Run the Code
 1. Ensure Python is installed on your system.
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python kmeans_clustering.py` 
+3. Run the scripts in the following order
+   - Data_import_&_cleaning
+   - Feature_engineering
+   - Kmeans_clustering
 
 ## Results
 We identified distinct customer segments that can be targeted differently to optimize marketing resources.
